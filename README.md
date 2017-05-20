@@ -1,4 +1,7 @@
 # UnityLzmaTest
-just lzma sdk test
+just lzma test
 
-use unity for compress and decompress resources files
+use unity editor to compress or decompress resources files
+
+7zip lzma sdk: http://www.7-zip.org/sdk.html
+
